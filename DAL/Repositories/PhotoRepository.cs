@@ -9,7 +9,7 @@ using DAL.Interfaces;
 
 namespace DAL.Repositories
 {
-    class PhotoRepository : IRepository<Photo>
+    class PhotoRepository : IPhotoRepo
     {
 
         private AlbumContext db;
@@ -24,7 +24,7 @@ namespace DAL.Repositories
             return db.Photos;
         }
 
-        public Photo Get(int id)
+        public Photo GetById(int id)
         {
             return db.Photos.Find(id);
         }
@@ -39,16 +39,16 @@ namespace DAL.Repositories
             db.Entry(photo).State = EntityState.Modified;
         }
 
-        public IEnumerable<Photo> Find(Func<Photo, Boolean> predicate)
-        {
-            return db.Photos.Where(predicate).ToList();
-        }
 
-        public void Delete(int id)
+        public void Delete(Photo photo)
         {
-            Photo photo = db.Photos.Find(id);
-            if (photo != null)
-                db.Photos.Remove(photo);
+            db.Photos.Remove(photo);
+
+            //Photo photo = db.Set<Photo>().FirstOrDefault(ph => ph.PhotoId == entity.Id);
+            //if (photo != null)
+            //{
+            //    context.Set<Photo>().Remove(photo);
+            //}
         }
     }
 }

@@ -9,10 +9,10 @@ namespace DAL.Interfaces
 {
     public interface IUnitOfWork : IDisposable
     {
-        IRepository<Photo> Photos { get; }
-        IRepository<User> Users { get; }
-        IRepository<Rating> Ratings { get; }
-        IRepository<Role> Roles { get; }
+      //  IRepository<Photo> Photos { get; }
+       // IRepository<User> Users { get; }
+       
+       // IRepository<Role> Roles { get; }
         void Save();
     }
 }

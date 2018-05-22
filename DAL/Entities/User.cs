@@ -29,11 +29,6 @@ namespace DAL.Entities
         public virtual ICollection<Rating> Ratings { get; set; }
         public virtual ICollection<Photo> Photos { get; set; }
 
-        public User()
-        {
-            Roles = new HashSet<Role>();
-            Ratings = new HashSet<Rating>();
-            Photos = new HashSet<Photo>();
-        }
+       
     }
 }
