@@ -16,12 +16,12 @@ namespace MvcProject.Controllers
 {
     public class AccountController : Controller
     {
-        private readonly IUserService userService;
+        //private readonly IUserService userService;
 
-        public AccountController(IUserService userSerivce)
-        {
-            this.userService = userSerivce;
-        }
+        //public AccountController(IUserService userSerivce)
+        //{
+        //    this.userService = userSerivce;
+        //}
 
         //
         // GET: /Account/Login

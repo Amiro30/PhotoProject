@@ -34,11 +34,7 @@
         {
             <div class="topmenulink">@Html.ActionLink("Add a Photo", "Create", "Photo")</div>
         }
-        <div class="topmenulink">@Html.ActionLink("Slideshow", "SlideShow", "Photo")</div>
-        @if (Session["Favorites"] != null)
-        {
-            <div class="topmenulink">@Html.ActionLink("Favorites", "FavoritesSlideshow", "Photo")</div>
-        }
+        
     </div>
 
     <div id="page-content">
