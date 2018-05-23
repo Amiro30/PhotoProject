@@ -7,7 +7,7 @@ using DAL.Entities;
 
 namespace DAL.Interfaces
 {
-    interface IRoleRepo 
+    public interface IRoleRepo 
     {
         IEnumerable<Role> GetUserRoles(int userId);
        

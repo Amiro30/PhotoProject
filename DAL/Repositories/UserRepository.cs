@@ -40,7 +40,9 @@ namespace DAL.Repositories
         
         public void Delete(User user)
         {
-            db.Users.Remove(user);
+            User user_toDelete = db.Users.First(p => p.Id == user.Id);
+            db.Users.Remove(user_toDelete);
+            //db.Users.Remove(user);
         }
 
         public User GetByLogin(string login)

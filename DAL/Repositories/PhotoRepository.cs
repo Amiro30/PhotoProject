@@ -42,13 +42,12 @@ namespace DAL.Repositories
 
         public void Delete(Photo photo)
         {
-            db.Photos.Remove(photo);
+            Photo photo_toDelete = db.Photos.First(p => p.Id == photo.Id);
 
-            //Photo photo = db.Set<Photo>().FirstOrDefault(ph => ph.PhotoId == entity.Id);
-            //if (photo != null)
-            //{
-            //    context.Set<Photo>().Remove(photo);
-            //}
+            if (photo_toDelete != null)
+            {
+                db.Photos.Remove(photo_toDelete);
+            }
         }
     }
 }

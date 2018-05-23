@@ -21,6 +21,7 @@ namespace DAL.Entities
         [DisplayName("Picture")]
         [MaxLength]
         public byte[] PhotoFile { get; set; }
+
         public int TotalRate { get; set; }
 
         //ImageMimeType, stores the MIME type for the PhotoFile
