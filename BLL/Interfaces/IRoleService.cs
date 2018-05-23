@@ -8,7 +8,7 @@ using DAL.Interfaces;
 
 namespace BLL.Interfaces
 {
-    interface IRoleService: IService<RoleDTO>
+    public interface IRoleService: IService<RoleDTO>
     {
         
     }

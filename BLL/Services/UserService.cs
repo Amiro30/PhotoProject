@@ -27,6 +27,7 @@ namespace BLL.Services
             uow.Save();
         }
 
+
         public void DeleteEntity(UserDTO user)
         {
             repository.Delete(user.ToDalUser());

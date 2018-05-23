@@ -9,7 +9,7 @@ using DAL.Interfaces;
 
 namespace BLL.Interfaces
 {
-    interface IUserService: IService<UserDTO>
+    public interface IUserService: IService<UserDTO>
     {
         UserDTO GetUserByLogin(string login);
         void ChangeUserPassword(string login, string password);
