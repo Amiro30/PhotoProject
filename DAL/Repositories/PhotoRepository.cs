@@ -9,14 +9,12 @@ using DAL.Interfaces;
 
 namespace DAL.Repositories
 {
-    class PhotoRepository : IPhotoRepo
+    public class PhotoRepository : IPhotoRepo
     {
-
         private AlbumContext db;
-
-        public PhotoRepository(AlbumContext context)
+        public PhotoRepository()
         {
-            this.db = context;
+            db = new AlbumContext();
         }
 
         public IEnumerable<Photo> GetAll()
@@ -32,6 +30,7 @@ namespace DAL.Repositories
         public void Create(Photo photo)
         {
             db.Photos.Add(photo);
+            db.SaveChanges();
         }
 
         public void Update(Photo photo)

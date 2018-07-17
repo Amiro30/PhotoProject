@@ -9,7 +9,7 @@ using DAL.Interfaces;
 
 namespace DAL.Repositories
 {
-    class UserRepository : IUserRepo
+    public class UserRepository : IUserRepo
     {
         private AlbumContext db;
 
@@ -42,7 +42,7 @@ namespace DAL.Repositories
         {
             User user_toDelete = db.Users.First(p => p.Id == user.Id);
             db.Users.Remove(user_toDelete);
-            //db.Users.Remove(user);
+           
         }
 
         public User GetByLogin(string login)

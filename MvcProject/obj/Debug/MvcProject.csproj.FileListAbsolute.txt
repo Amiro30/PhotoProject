@@ -1,0 +1,368 @@
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\obj\Debug\MvcProject.csprojResolveAssemblyReference.cache
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\ApplicationInsights.config
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\roslyn\csc.exe
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\roslyn\System.Collections.Immutable.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\roslyn\vbc.exe
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\roslyn\VBCSCompiler.exe
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\roslyn\VBCSCompiler.exe.config
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\MvcProject.dll.config
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\MvcProject.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\MvcProject.pdb
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Antlr3.Runtime.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\AutoMapper.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\BLL.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\EntityFramework.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\EntityFramework.SqlServer.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.AI.DependencyCollector.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.AI.Web.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.AI.WindowsServer.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.ApplicationInsights.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.Owin.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.Google.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.Web.Infrastructure.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Newtonsoft.Json.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Owin.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\System.Web.Helpers.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\System.Web.Mvc.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\System.Web.Optimization.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\System.Web.Razor.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\System.Web.WebPages.Deployment.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\System.Web.WebPages.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\System.Web.WebPages.Razor.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\WebGrease.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\DAL.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\BLL.pdb
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\AutoMapper.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.AI.DependencyCollector.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.AI.Web.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.AI.WindowsServer.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.ApplicationInsights.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\System.Web.Helpers.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\System.Web.Mvc.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\System.Web.Optimization.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\System.Web.Razor.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\System.Web.WebPages.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\System.Web.WebPages.Deployment.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\System.Web.WebPages.Razor.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Antlr3.Runtime.pdb
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Newtonsoft.Json.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\EntityFramework.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\EntityFramework.SqlServer.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.Owin.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.Google.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\DAL.pdb
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\obj\Debug\MvcProject.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\obj\Debug\MvcProject.pdb
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\ApplicationInsights.config
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\roslyn\csc.exe
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\roslyn\System.Collections.Immutable.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\roslyn\vbc.exe
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\roslyn\VBCSCompiler.exe
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\roslyn\VBCSCompiler.exe.config
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\MvcProject.dll.config
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\MvcProject.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\MvcProject.pdb
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Antlr3.Runtime.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\AutoMapper.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\BLL.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\EntityFramework.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\EntityFramework.SqlServer.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.AI.DependencyCollector.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.AI.Web.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.AI.WindowsServer.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.ApplicationInsights.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.Owin.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.Owin.Security.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.Owin.Security.Google.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.Web.Infrastructure.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Newtonsoft.Json.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Owin.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\System.Web.Helpers.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\System.Web.Mvc.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\System.Web.Optimization.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\System.Web.Razor.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\System.Web.WebPages.Deployment.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\System.Web.WebPages.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\System.Web.WebPages.Razor.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\WebGrease.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\DAL.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\BLL.pdb
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\AutoMapper.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\EntityFramework.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\EntityFramework.SqlServer.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.AI.DependencyCollector.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.AI.Web.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.AI.WindowsServer.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.ApplicationInsights.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\System.Web.Helpers.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\System.Web.Mvc.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\System.Web.Optimization.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\System.Web.Razor.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\System.Web.WebPages.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\System.Web.WebPages.Deployment.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\System.Web.WebPages.Razor.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Antlr3.Runtime.pdb
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Newtonsoft.Json.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.Owin.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.Owin.Security.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.Owin.Security.Google.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\bin\DAL.pdb
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\obj\Debug\MvcProject.csprojResolveAssemblyReference.cache
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\obj\Debug\MvcProject.dll
+D:\vs_Projects\copy_from23.05_ 16_30\MvcProject\obj\Debug\MvcProject.pdb
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\ApplicationInsights.config
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\roslyn\csc.exe
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\roslyn\System.Collections.Immutable.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\roslyn\vbc.exe
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\roslyn\VBCSCompiler.exe
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\roslyn\VBCSCompiler.exe.config
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\MvcProject.dll.config
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\MvcProject.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\MvcProject.pdb
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Antlr3.Runtime.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\AutoMapper.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\BLL.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\EntityFramework.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\EntityFramework.SqlServer.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.AI.DependencyCollector.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.AI.Web.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.AI.WindowsServer.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.ApplicationInsights.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.Owin.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.Google.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.Web.Infrastructure.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Newtonsoft.Json.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Owin.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\System.Web.Helpers.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\System.Web.Mvc.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\System.Web.Optimization.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\System.Web.Razor.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\System.Web.WebPages.Deployment.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\System.Web.WebPages.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\System.Web.WebPages.Razor.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\WebGrease.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\DAL.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\BLL.pdb
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\AutoMapper.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\EntityFramework.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\EntityFramework.SqlServer.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.AI.DependencyCollector.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.AI.Web.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.AI.WindowsServer.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.ApplicationInsights.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\System.Web.Helpers.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\System.Web.Mvc.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\System.Web.Optimization.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\System.Web.Razor.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\System.Web.WebPages.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\System.Web.WebPages.Deployment.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\System.Web.WebPages.Razor.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Antlr3.Runtime.pdb
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Newtonsoft.Json.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.Owin.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.Google.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\bin\DAL.pdb
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\obj\Debug\MvcProject.csprojResolveAssemblyReference.cache
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\obj\Debug\MvcProject.dll
+D:\vs_Projects\Copy_till_14_17\PhotoAlbum\MvcProject\obj\Debug\MvcProject.pdb
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Ninject.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Ninject.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Ninject.Extensions.Logging.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Ninject.Web.Common.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Ninject.Web.Mvc.dll
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Ninject.Extensions.Logging.pdb
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Ninject.Extensions.Logging.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Ninject.Web.Common.xml
+D:\vs_Projects\1st\EpamTraining\PhotoAlbum\MvcProject\bin\Ninject.Web.Mvc.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\obj\Debug\MvcProject.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\obj\Debug\MvcProject.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\obj\Debug\MvcProject.pdb
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\ApplicationInsights.config
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\roslyn\csc.exe
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\roslyn\vbc.exe
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\MvcProject.dll.config
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\MvcProject.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\MvcProject.pdb
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Antlr3.Runtime.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\AutoMapper.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\DAL.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\EntityFramework.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.AI.Web.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.Owin.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Newtonsoft.Json.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Ninject.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Ninject.Web.Common.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Ninject.Web.Mvc.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Owin.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\System.Web.Helpers.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\System.Web.Mvc.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\System.Web.Optimization.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\System.Web.Razor.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\System.Web.WebPages.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\WebGrease.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\DAL.pdb
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\AutoMapper.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\EntityFramework.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.AI.Web.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Ninject.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Ninject.Web.Common.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Ninject.Web.Mvc.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\System.Web.Helpers.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\System.Web.Mvc.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\System.Web.Optimization.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\System.Web.Razor.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\System.Web.WebPages.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Antlr3.Runtime.pdb
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Newtonsoft.Json.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.Owin.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\WebActivatorEx.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\Andrew\Desktop\Pat_Project\PhotoAlbum_ME\MvcProject\bin\Ninject.Web.Common.WebHost.xml

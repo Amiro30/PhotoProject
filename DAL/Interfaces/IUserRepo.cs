@@ -11,8 +11,6 @@ namespace DAL.Interfaces
     {
         User GetByLogin(string login);
         void ChangeUserPassword(string login, string password);
-       /* IEnumerable<User> GetAll();
-        IEnumerable<User> GetUsersByFirstName(string firstName);
-        IEnumerable<User> GetUsersByLastName(string lastName);*/
+      
     }
 }
